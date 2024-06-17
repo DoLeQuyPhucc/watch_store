@@ -1,0 +1,29 @@
+[
+  {
+    "watchName": "Rolex Submariner",
+    "image": "https://example.com/images/rolex-submariner.jpg",
+    "price": 8000,
+    "Automatic": true,
+    "watchDescription": "The Rolex Submariner is an iconic timepiece renowned for its elegance and durability. Crafted from the finest materials, this watch boasts a sleek stainless steel case and a scratch-resistant sapphire crystal. With water resistance up to 300 meters, it is perfect for diving enthusiasts. The Submariner's automatic movement ensures precise timekeeping, while the luminous hands and markers provide excellent visibility in low light conditions. This watch also features a date function, adding to its practicality. Whether you're at a formal event or exploring the deep sea, the Rolex Submariner is a timeless companion.",
+    "comments": [],
+    "brand": "60d21b2f8f8c4b001f3d69f0"
+  },
+  {
+    "watchName": "Omega Seamaster",
+    "image": "https://example.com/images/omega-seamaster.jpg",
+    "price": 6000,
+    "Automatic": true,
+    "watchDescription": "The Omega Seamaster is a blend of innovative technology and refined design. This exquisite watch features a stainless steel case and a durable rubber strap, making it ideal for both formal and casual wear. The Seamaster is equipped with a Co-Axial automatic movement that provides exceptional accuracy and reliability. Its water resistance up to 600 meters makes it a favorite among professional divers. The watch's helium escape valve and unidirectional rotating bezel are designed for underwater exploration. The Omega Seamaster is not just a watch; it's a testament to Omega's legacy of excellence.",
+    "comments": [],
+    "brand": "60d21b2f8f8c4b001f3d69f1"
+  },
+  {
+    "watchName": "Tag Heuer Carrera",
+    "image": "https://example.com/images/tag-heuer-carrera.jpg",
+    "price": 4500,
+    "Automatic": false,
+    "watchDescription": "The Tag Heuer Carrera is a masterpiece of Swiss engineering and design. With a sleek stainless steel case and a luxurious leather strap, this watch exudes sophistication. The Carrera features a precise quartz movement, ensuring accurate timekeeping. Its chronograph function adds to its versatility, making it suitable for various activities. The watch is water-resistant up to 100 meters, providing peace of mind for everyday wear. The Carrera's minimalist dial design with bold hour markers and hands enhances its readability. Experience the perfect blend of style and functionality with the Tag Heuer Carrera.",
+    "comments": [],
+    "brand": "60d21b2f8f8c4b001f3d69f2"
+  }
+]

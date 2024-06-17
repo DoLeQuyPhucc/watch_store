@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.member {
+  border-bottom: 1px solid #eee;
+  padding: 10px 0;
+}
+
+.member p {
+  margin: 0;
+  color: #555;
+}

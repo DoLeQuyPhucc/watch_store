@@ -1,0 +1,50 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+.table-hover tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+.thead-dark th {
+  background-color: #343a40;
+  color: #ffffff;
+}
+
+.btn-primary,
+.btn-danger,
+.btn-success {
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.btn-primary:hover,
+.btn-danger:hover,
+.btn-success:hover {
+  background-color: #0056b3;
+  transform: scale(1.05);
+}
+
+.input-group .form-control {
+  border-radius: 0;
+}
+
+.input-group .input-group-append .btn {
+  border-radius: 0 5px 5px 0;
+}
+
+.btn-sm {
+  width: 100px; /* Adjust this value to ensure uniform button width */
+  margin: 5px;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .btn-sm {
+    width: auto; /* Ensure buttons resize correctly on smaller screens */
+  }
+}
